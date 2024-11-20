@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Freshwater Microplastic Research</title>
+    <link>https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git/posts/</link>
+    <description>Recent content in Posts on Freshwater Microplastic Research</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2024 14:29:41 -0500</lastBuildDate>
+    <atom:link href="https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git/posts/post1/</link>
+      <pubDate>Sat, 16 Nov 2024 14:29:41 -0500</pubDate>
+      <guid>https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git/posts/post1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Who am I?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;My name is Riley Moran. I am a first-year Ph.D student in UNC&amp;rsquo;s Earth Marine, and Environmental Sciences Department, and a current member of McKee Lab. I study microplastic pollution in freshwater systems, such as rivers, lakes and reservoirs.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Education-UNC at Chapel Hill&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;B.S. Environmental Sciences-Water and Climate concentration (2024)&lt;/li&gt;&#xA;&lt;li&gt;B.A. Geological Sciences-Earth Science concentration (2024)&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>My Research</title>
+      <link>https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git/posts/post2/</link>
+      <pubDate>Sat, 16 Nov 2024 14:29:41 -0500</pubDate>
+      <guid>https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git/posts/post2/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;What are microplastics?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Microplastics are particles between 5mm and 1um made from syththetic polymers (plastics) [1]. They occur in several different morphologies,  including fragments, fibers, films, foams, and pellets/beads [2].&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Why do we care about microplastics in freshwater?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Microplastics are ubiquitous in our food, water, and air [3]. Scientists have also observed them in virtually every human tissue [4]. There are growing concerns microplastic exposure may represent a threat to public health [5]. Since many routes of exposure ultimately depend on microplastic transport by freshwater systems, elucidating microplastic behavior in freshwater systems is critical to managing and mitigating human microplastic exposure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Haw River Sample</title>
+      <link>https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git/posts/post3/</link>
+      <pubDate>Sat, 16 Nov 2024 14:29:41 -0300</pubDate>
+      <guid>https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git/posts/post3/</guid>
+      <description>&lt;h2 id=&#34;a-case-study-jordan-lake-and-the-haw-river&#34;&gt;A Case Study: Jordan Lake and the Haw River&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;map.png&#34; alt=&#34;Figure 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jordan Lake is an artificial reservoir dammed in the early 80s as flood control for Fort Liberty. In the decades since, it has taken on a more vital role for local communities-as a recreational site and as a water source for Cary, NC. Jordan lake is primary fed (~80% of inflows) by the Haw River.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Land Use Changes&lt;/strong&gt;&#xA;&lt;img src=&#34;1985_land_map.jpg&#34; alt=&#34;Figure 3&#34;&gt;&#xA;&lt;img src=&#34;2021_land_map.jpg&#34; alt=&#34;Figure 4&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
